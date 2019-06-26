@@ -78,9 +78,11 @@ Example execution: `./Gradients 100`
 
 ## Scaling Up and Out with InAccel Coral
 
+<a href="https://www.inaccel.com/coral-fpga-resource-manager/">
 <p align="center">
 <img src="https://www.inaccel.com/wp-content/uploads/coral_logo_big-1-e1561553344239.png" width=60% height=60% align="middle" alt="InAccel Coral"/>
 </p>
+</a>
 
 The above example application spawns a single thread and can train a model using a single FPGA device which **is not viable for datacenter-scale needs**. Data scientists rely on frameworks like Scikit Learn and Apache Spark to create and test their machine learning pipelines.  
 **InAccel Coral** FPGA resource manager is able to automatically **scale** and **schedule** any acceleration requests to a **cluster of FPGAs**, perform **load balancing** techniques, **reconfigure** the FPGA devices, perform **memory management** etc., yet providing a simple to use **high level API** in Java, CPP and Python.  
