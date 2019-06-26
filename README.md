@@ -1,6 +1,8 @@
+<a href="https://www.inaccel.com/">
 <p align="center">
 <img src="https://www.inaccel.com/wp-content/uploads/logo-horizontal1200px.png" width=60% height=60% align="middle" alt="InAccel"/>
 </p>
+</a>
 
 # Logistic Regression
 
