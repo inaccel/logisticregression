@@ -4,7 +4,7 @@
 </p>
 </a>
 
-# Logistic Regression
+# Logistic Regression IP core
 
 
 This is an FPGA accelerated solution for Logistic Regression BGD algorithm. It can provide up to **70x** speedup compared to a single threaded execution and up to **12x** compared to an 8 threaded Intel Xeon CPU execution respectively.
@@ -19,8 +19,8 @@ This is an FPGA accelerated solution for Logistic Regression BGD algorithm. It c
 
 |            Board            |
 | :-------------------------: |
-|      Xilinx Alveo U200      |
-|      Xilinx Alveo U250      |
+|      [Xilinx Alveo U200](https://www.xilinx.com/products/boards-and-kits/alveo.html)      |
+|      [Xilinx Alveo U250](https://www.xilinx.com/products/boards-and-kits/alveo.html)      |
 |   AWS VU9P (F1 instances)   |
 | Alibaba VU9P (F3 instances) |
 | Any other Xilinx platform with at least the same amount of VU9P resources |
