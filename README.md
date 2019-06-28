@@ -21,7 +21,7 @@ This is an FPGA accelerated solution for Logistic Regression BGD algorithm. It c
 | :-------------------------: |
 |      [Xilinx Alveo U200](https://www.xilinx.com/products/boards-and-kits/alveo.html)      |
 |      [Xilinx Alveo U250](https://www.xilinx.com/products/boards-and-kits/alveo.html)      |
-|   AWS VU9P (F1 instances)   |
+|   [AWS VU9P (F1 instances)](https://aws.amazon.com/ec2/instance-types/f1/)   |
 | Alibaba VU9P (F3 instances) |
 | Any other Xilinx platform with at least the same amount of VU9P resources |
 
