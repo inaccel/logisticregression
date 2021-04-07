@@ -19,8 +19,8 @@ This is an FPGA accelerated solution for Logistic Regression BGD algorithm. It c
 
 |            Board            |
 | :-------------------------: |
-|      [Xilinx Alveo U200](https://www.xilinx.com/products/boards-and-kits/alveo.html)      |
-|      [Xilinx Alveo U250](https://www.xilinx.com/products/boards-and-kits/alveo.html)      |
+|      [Xilinx Alveo U200](https://www.xilinx.com/products/boards-and-kits/alveo/u200.html)      |
+|      [Xilinx Alveo U250](https://www.xilinx.com/products/boards-and-kits/alveo/u250.html)      |
 |   [AWS VU9P (F1 instances)](https://aws.amazon.com/ec2/instance-types/f1/)   |
 | Alibaba VU9P (F3 instances) |
 | Any other Xilinx platform with at least the same amount of VU9P resources |
@@ -91,4 +91,4 @@ Finally, shaping cutting edge technology, Coral is fully compatible with **Kuber
 
 * You can **create a free InAccel Coral license** [here](https://www.inaccel.com/license/).
 * You can **download** InAccel Coral docker from [dockerhub](https://hub.docker.com/r/inaccel/coral).
-* You can find **full documentation** as well as a **quick starting guide** in [InAccel Docs](https://docs.inaccel.com/latest/).
+* You can find **full documentation** as well as a **quick starting guide** in [InAccel Docs](https://docs.inaccel.com/).
